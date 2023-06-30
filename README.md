@@ -1,10 +1,10 @@
 ## VAXDAQ
 
 ## Team Members: 
-Parth
-Stacey 
-Terell
-Chuck 
+- Parth
+- Stacey 
+- Terell
+- Chuck 
 
 ## Project Description 
 Exploring the Pandemic's Impact on the NASDAQ and S&P 500.
