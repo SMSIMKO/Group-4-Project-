@@ -3,7 +3,7 @@
 ## Team Members: 
 - Parth
 - Stacey 
-- Terell
+- Terrell
 - Chuck 
 
 ## Project Description 
