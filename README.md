@@ -28,7 +28,7 @@ Exploring the Pandemic's Impact on the Real Estate Market.
 - Interest rates- Chuck 
 - Median Sales price/Number of available homes - Parth 
 - Median Days on market - Terrell 
-- Rental Prices & new construction - Stacey 
+- Rental Prices & new construction/unemployment - Stacey 
  
 
   
