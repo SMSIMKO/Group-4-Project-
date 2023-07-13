@@ -25,10 +25,10 @@ Exploring the Pandemic's Impact on the Real Estate Market.
 - Monte Carlo Simulation 
 
 ## Break down of tasks:
-Interest rates- Chuck
-Median Sales price/Number of available homes - Parth
-Days on market - Terrell
-Rental Prices & new construction - Stacey
-
+- Interest rates- Chuck 
+- Median Sales price/Number of available homes - Parth 
+- Days on market - Terrell 
+- Rental Prices & new construction - Stacey 
+ 
 
   
