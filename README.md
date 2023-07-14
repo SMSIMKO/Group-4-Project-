@@ -14,7 +14,7 @@ Exploring the Pandemic's Impact on the Real Estate Market.
 - Interest rates.
 - Pandemics impact on the days on market.
 - Are there any comparisons between the data for both.
-- Rental prices and new construction statistics.
+- Unemployment and Home sales price index 
 
 ## Data sets to be used
 - Google Sheets
@@ -28,7 +28,7 @@ Exploring the Pandemic's Impact on the Real Estate Market.
 - Interest rates- Chuck 
 - Median Sales price/Number of available homes - Parth 
 - Median Days on market - Terrell 
-- Rental Prices & new construction/unemployment - Stacey 
+- Home sales price index/Unemployment Rates - Stacey 
  
 
   
