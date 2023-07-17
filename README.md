@@ -63,7 +63,7 @@ For illustrative purposes, the below reflects the average monthly principal and 
 
 # 3) Median Housing Price
 
-![Screenshot (6)](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/440f0b43-ba9d-4486-a71d-70626b278655)
+![Screenshot (6)](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/e627c98b-bb8e-4980-a87a-814f069ba314)
 
 
 
