@@ -4,9 +4,11 @@
 
 The Coronavirus has transformed and altered life as we know it, impacting a wide array of markets across the World. One such market, the Housing Market, has experienced a profound change and destabilization throughout the Pandemic. We've identified **6 topics** and studied pre-Pandemic, during-Pandemic, and post-Pandemic data to truly analyze the Pandemic's impact on the Housing Market.
 
-# Our Date:
+# Our Data:
 
-In order to determine the Pandemic's impact on the Housing Market, we researched data
+![coronavirus-effect-on-housing-market](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/d675a4f8-0de1-45f4-bd09-95eebb80b90c)
+
+On March 11, 2020, the World Health Organization (WHO) decalred Covid-19 a pandemic. In order to assess Covid's impact on the Housing Market, we reasearched and found data leading up to, which we labeled as **" "pre-Pandemic"**, during Covid, labeled as **"during-Pandemic"**, and after Covid, which was labeled as **"post-Pandemic"**. 
 
 # 1) 30-Year Mortgage Rate
 
