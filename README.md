@@ -22,7 +22,7 @@ On May 5, 2023, as the number of Covid-19 cases continued to dwindle, the WHO of
 
 # Topics of Focus
 
-# 1) 30-Year Mortgage Rate
+# 1) Interest Rate(s) (30-year Mortgage Interest Rate, 10-year Treasury Yield, Fed Fund Rate)
 
 ![Mortgage_rates_history](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/7df53043-9716-49bf-971f-f5bfd205865b)
 
@@ -42,3 +42,28 @@ On May 5, 2023, as the number of Covid-19 cases continued to dwindle, the WHO of
 # 5) Unemployment
 
 ![covid-19-unemployment](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/a48f28d6-7ae0-4048-9270-bdcfbb690ea2)
+
+# Results
+
+# 1) Interest Rates
+
+For illustrative purposes, the below reflects the average monthly principal and interest payment for $250,000 house based upon the mean 30-year interest rate during each of the eras:
+
+**Pre-Pandemic - Monthly P&I: $1,211.19 @ 4.12%**
+
+**Pandemic: Monthly P&I: $1,185.01 @ 3.94%;**
+
+**Post Pandemic: P&I $1,585.93 @ 6.53%;**
+
+![image_480](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/2f72f6e8-2575-4d86-94f1-bd85afafaa7d)
+
+# 2) Housing Inventory
+
+![Screenshot (7)](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/087ae97e-52ce-42c0-afb3-25471688f785)
+
+# 3) Median Housing Price
+
+![Screenshot (6)](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/440f0b43-ba9d-4486-a71d-70626b278655)
+
+
+
