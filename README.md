@@ -20,6 +20,7 @@ On May 5, 2023, as the number of Covid-19 cases continued to dwindle, the WHO of
 
 ![0270_637756725647103443](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/e9cae854-c604-476c-bca5-750984fd2953)
 
+# Topics of Focus
 
 # 1) 30-Year Mortgage Rate
 
