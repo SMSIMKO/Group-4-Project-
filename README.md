@@ -19,3 +19,7 @@ The Coronavirus has transformed and altered life as we know it, impacting a wide
 # 4) Median Days on the Market
 
 ![0270_637897741674218848](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/1040c900-ca08-47da-9c3c-3f153452ae32)
+
+# 5) Unemployment
+
+![covid-19-unemployment](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/a48f28d6-7ae0-4048-9270-bdcfbb690ea2)
