@@ -75,7 +75,7 @@ As shown by the Housing Inventory, the Median Home Price also experienced a dras
 
 # 4) Median Days on the Market
 
-
+![median_days_on_market_bar_chart_2017_2023](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/1cb2ef0a-7713-42ce-9315-3a3652eec7b3)
 
 
 
