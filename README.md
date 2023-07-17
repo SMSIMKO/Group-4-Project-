@@ -64,8 +64,11 @@ For illustrative purposes, the below reflects the average monthly principal and 
 **Future Projections:**
 
 Monte Carlo Simulation Forecast Results: Housing Inventory
+
 Forecast Start Date: 2023-03-01 00:00:00
+
 Forecast End Date: 2026-03-01 00:00:00
+
 Mean Duration:
 0       892666.863369
 1       897207.412420
@@ -86,8 +89,11 @@ Mean Duration:
 **Future Projections:**
 
 Monte Carlo Simulation Forecast Results: 
+
 Forecast Start Date: 2023-03-15 00:00:00
+
 Forecast End Date: 2026-03-15 00:00:00
+
 Mean Duration:
 0       336384.522360
 1       336944.126600
