@@ -43,6 +43,10 @@ On May 5, 2023, as the number of Covid-19 cases continued to dwindle, the WHO of
 
 ![covid-19-unemployment](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/a48f28d6-7ae0-4048-9270-bdcfbb690ea2)
 
+# 6) Home Sales Price Index
+
+![house-prices-down-represents-reduce-regresses-and-household-e1680213136553](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/301b1bbc-6c37-4984-b26a-f013b4328273)
+
 # Results
 
 # 1) Interest Rates
@@ -68,6 +72,8 @@ Our data shows that the Pandemic had a profound impact on the housing inventory,
 ![Screenshot (6)](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/e627c98b-bb8e-4980-a87a-814f069ba314)
 
 As shown by the Housing Inventory, the Median Home Price also experienced a drastic increase in price throughout the Pandemic.
+
+# 4) Median Days on the Market
 
 
 
