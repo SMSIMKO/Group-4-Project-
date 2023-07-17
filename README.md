@@ -14,7 +14,7 @@ On May 5, 2023, as the number of Covid-19 cases continued to dwindle, the WHO of
 
 **"Pre-Pandemic** = March 2017 - March 2020
 
-**""During-Pandemic"** = March 2020 - March 2023
+**"During-Pandemic"** = March 2020 - March 2023
 
 **"Post-Pandemic"** = March 2023 - March 2026 (although data from March 2023-July 2023 was also taken into consideration during our calculation)
 
