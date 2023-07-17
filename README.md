@@ -30,7 +30,7 @@ On May 5, 2023, as the number of Covid-19 cases continued to dwindle, the WHO of
 
 ![June-MarketStats-Blog](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/2a3aea63-961e-4578-b272-9afba8cefcbd)
 
-# 3) Median Housing Price
+# 3) Median Hpme Price
 
 ![investing-real-estate-investment-opportunity-agent-portfolio-real-estate-investor-concept-housing-prices-increase-a-businessman-walks-on-a-green-graph-of-rising-house-prices-vector](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/bde307ea-1396-4645-ac89-d358b0780ddd)
 
@@ -61,9 +61,45 @@ For illustrative purposes, the below reflects the average monthly principal and 
 
 ![Screenshot (7)](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/087ae97e-52ce-42c0-afb3-25471688f785)
 
-# 3) Median Housing Price
+**Future Projections:**
+
+Monte Carlo Simulation Forecast Results: Housing Inventory
+Forecast Start Date: 2023-03-01 00:00:00
+Forecast End Date: 2026-03-01 00:00:00
+Mean Duration:
+0       892666.863369
+1       897207.412420
+2       882650.216111
+3       899433.921633
+4       896215.131777
+            ...      
+1092    909441.792366
+1093    893242.516384
+1094    896898.989592
+1095    905000.179116
+1096    907147.841805
+
+# 3) Median Home Price
 
 ![Screenshot (6)](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/e627c98b-bb8e-4980-a87a-814f069ba314)
+
+**Future Projections:**
+
+Monte Carlo Simulation Forecast Results: 
+Forecast Start Date: 2023-03-15 00:00:00
+Forecast End Date: 2026-03-15 00:00:00
+Mean Duration:
+0       336384.522360
+1       336944.126600
+2       338475.906239
+3       337374.828174
+4       336561.344080
+            ...      
+1092    334649.556888
+1093    337801.187304
+1094    335901.203154
+1095    337131.120222
+1096    337006.873814
 
 
 
