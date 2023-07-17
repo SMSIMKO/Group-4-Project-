@@ -10,6 +10,8 @@ The Coronavirus has transformed and altered life as we know it, impacting a wide
 
 On March 11, 2020, the World Health Organization (WHO) decalred Covid-19 a pandemic. In order to assess Covid's impact on the Housing Market, we reasearched and found data leading up to, which we labeled as **" "pre-Pandemic"**, during Covid, labeled as **"during-Pandemic"**, and after Covid, which was labeled as **"post-Pandemic"**. 
 
+On May 5, 2023, as the number of Covid-19 cases continued to dwindle, the WHO officially declared an end to Global Public Health Emergency (PHE) for Covid. 
+
 # 1) 30-Year Mortgage Rate
 
 ![Mortgage_rates_history](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/7df53043-9716-49bf-971f-f5bfd205865b)
