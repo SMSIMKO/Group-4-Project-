@@ -16,6 +16,9 @@ The Coronavirus has transformed and altered life as we know it, impacting a wide
 
 ![investing-real-estate-investment-opportunity-agent-portfolio-real-estate-investor-concept-housing-prices-increase-a-businessman-walks-on-a-green-graph-of-rising-house-prices-vector](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/bde307ea-1396-4645-ac89-d358b0780ddd)
 
+![Screenshot (6)](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/c2c55d2a-a761-4aa3-88c7-a0943783cbf4)
+
+
 # 4) Median Days on the Market
 
 ![0270_637897741674218848](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/1040c900-ca08-47da-9c3c-3f153452ae32)
