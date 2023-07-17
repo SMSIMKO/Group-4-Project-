@@ -10,6 +10,5 @@ The Coronavirus has transformed and altered life as we know it, impacting a wide
 
 # 2) Housing Inventory
 
-![20170724-Share-STM](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/382e174d-d69b-4216-80f6-0e5dd88acf03)
 ![June-MarketStats-Blog](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/2a3aea63-961e-4578-b272-9afba8cefcbd)
 
