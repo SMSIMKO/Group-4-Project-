@@ -7,3 +7,8 @@ The Coronavirus has transformed and altered life as we know it, impacting a wide
 # 1) 30-Year Mortgage Rate
 
 ![Mortgage_rates_history](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/7df53043-9716-49bf-971f-f5bfd205865b)
+
+# 2) Housing Inventory
+
+![download](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/690d10b2-1f98-4476-b1fb-c05a7b5843a0)
+
