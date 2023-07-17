@@ -12,6 +12,8 @@ The Coronavirus has transformed and altered life as we know it, impacting a wide
 
 ![June-MarketStats-Blog](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/2a3aea63-961e-4578-b272-9afba8cefcbd)
 
+As 
+
 ![Screenshot (7)](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/2d57e265-a780-4826-9ba7-a439a92f48ca)
 
 
