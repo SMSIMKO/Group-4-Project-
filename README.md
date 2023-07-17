@@ -22,7 +22,7 @@ On May 5, 2023, as the number of Covid-19 cases continued to dwindle, the WHO of
 
 # Topics of Focus
 
-# 1) Interest Rate(s) (30-year Mortgage Interest Rate, 10-year Treasury Yield, Fed Fund Rate)
+# 1) Interest Rate(s)
 
 ![Mortgage_rates_history](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/7df53043-9716-49bf-971f-f5bfd205865b)
 
