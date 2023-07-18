@@ -83,6 +83,7 @@ As shown by the Housing Inventory, the Median Home Price also experienced a dras
 
 # 6) Home Sales Price Index
 
+![image](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/e1d9e2e7-083d-474f-a728-5063283728ad)
 
 # Conclusion:
 
