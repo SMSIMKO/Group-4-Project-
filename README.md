@@ -79,6 +79,8 @@ As shown by the Housing Inventory, the Median Home Price also experienced a dras
 
 # 5) Unemployment
 
+![image](https://github.com/SMSIMKO/Group-4-Project-/assets/133065460/ba0d846e-6b55-4b2a-b8e0-bbcbc770fa6a)
+
 # 6) Home Sales Price Index
 
 
