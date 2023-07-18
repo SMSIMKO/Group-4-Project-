@@ -82,4 +82,8 @@ As shown by the Housing Inventory, the Median Home Price also experienced a dras
 # 6) Home Sales Price Index
 
 
+# Conclusion:
+
+The pandemic has had a profound impact on the Housing Market. Although the Market has shown that it's working towards stabilizing, the economic impact of Covid has proven how volatile the Market can be. As the 30-year average mortgage interest rate climbed as did the median home price and rate of unemployment. As home prices continued to increase, and many potential homebuyers had less liquidity due to high interest rates, buyers were forced to bid on a diminished housing inventory, forcing them to "overpay" considerably and vastly decreasing the amount of time that a hosue was on the Market. These factors, amongst many others, greatly contributed to the extreme volatility of the Housing Market. Our data, which supports this claim, shows a direct correalation between these 6 contributing factors and truly explains each's overall impact on the Market.
+
 
